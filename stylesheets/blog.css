@@ -54,6 +54,10 @@
     margin-left: 7.5%;
 }
 
+.content-column #disqus_thread {
+    margin-top: 5%;
+}
+
 .blog-container {
     margin: 4%;
     min-width: 992px;

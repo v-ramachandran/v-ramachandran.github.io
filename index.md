@@ -2,6 +2,8 @@
 author: Venketaram Ramachandran
 layout: default
 title: my latest posts
+add_disqus: true
+disqus_identifier: 0
 ---
 <section>
   <h3>
